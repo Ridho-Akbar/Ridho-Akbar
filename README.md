@@ -7,7 +7,7 @@
   </div>
   
   <!-- Avatar -->
-  <img src="https://github.com/rydhoz/rydhoz/blob/main/ridho_re-zero_style-circle.png" width="200" height="200" style="border-radius:50%; margin-top:-75px; border:10px solid #ffffff; box-shadow:0 0 25px #00ffff;" alt="Avatar"/>
+  <img src="https://github.com/ridho-akbar/ridho-akbar/blob/main/ridho_re-zero_style-circle.png" width="200" height="200" style="border-radius:50%; margin-top:-75px; border:10px solid #ffffff; box-shadow:0 0 25px #00ffff;" alt="Avatar"/>
 
   <h1 style="color:#00ffff; text-shadow: 0 0 10px #00ffff; margin-top: 20px;">Ridho Akbar</h1>
   
@@ -21,7 +21,7 @@
   <!-- Social badges -->
   <a href="https://linkedin.com/in/ridhoakbar"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:ridho8977@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://rydhoz.dev"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://ridho-akbar.dev"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/></a>
 </div>
 
 <br/>
@@ -71,6 +71,6 @@
 
 <!-- GitHub Stats & Top Languages dengan neon theme -->
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rydhoz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ffff&icon_color=00ffff&text_color=c9d1d9" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rydhoz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ffff&text_color=c9d1d9" alt="Top Languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ridho-akbar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ffff&icon_color=00ffff&text_color=c9d1d9" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ridho-akbar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ffff&text_color=c9d1d9" alt="Top Languages"/>
 </div>
