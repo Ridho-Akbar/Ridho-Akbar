@@ -11,7 +11,7 @@
 
   <h1 style="color:#00ffff; text-shadow: 0 0 10px #00ffff; margin-top: 20px;">Ridho Akbar</h1>
   
-  <!-- Typing SVG Animasi -->
+  <!-- Typing SVG Animation -->
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=console.log('Hello+World!');Building+the+future%2C+one+line+at+a+time;Always+learning+new+things;Turning+coffee+into+code" alt="Typing SVG" />
   </a>
@@ -26,21 +26,21 @@
 
 <br/>
 
-<!-- Tentang Aku dengan dua kolom -->
+<!-- About Me with two columns -->
 <table align="center" style="background-color:#0d1117; border-radius:15px; padding:20px; box-shadow: 0 0 20px #00ffff40;">
   <tr>
     <td style="padding:20px; color:#c9d1d9;">
       <h2 style="color:#00ffff;"> About Me </h2>
       <p>
-        •  Sangat antusias belajar hal baru<br/>
-        •  Sedang mendalami <b>Web3 & AI</b><br/>
-        •  Ingin berkolaborasi di <b>open source project</b> apapun!<br/>
-        •  Cara menghubungi: <b>ridho8977@gmail.com</b><br/>
-        •  Fun fact: Aku bisa ngoding sambil minum kopi 3 gelas!
+        •  Highly enthusiastic about learning new things<br/>
+        •  Currently diving deep into <b>Web3 & AI</b><br/>
+        •  Looking to collaborate on <b>open source projects</b> of any kind!<br/>
+        •  How to reach me: <b>ridhoakbar8977@gmail.com</b><br/>
+        •  Fun fact: I can code while drinking 3 cups of coffee!
       </p>
     </td>
     <td align="center" style="padding:20px;">
-      <!-- Gambar animasi coding -->
+      <!-- Animated coding gif -->
       <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="Coding gif"/>
     </td>
   </tr>
@@ -48,7 +48,7 @@
 
 <br/>
 
-<!-- Skill Set dengan tampilan keren -->
+<!-- Skill Set with cool styling -->
 <div align="center" style="background-color:#0d1117; border-radius:15px; padding:25px; box-shadow: 0 0 20px #00ffff40;">
   <h2 style="color:#00ffff;">🛠️ Tech Stack & Tools</h2>
   <p>
@@ -69,7 +69,7 @@
 
 <br/>
 
-<!-- GitHub Stats & Top Languages dengan neon theme -->
+<!-- GitHub Stats & Top Languages with neon theme -->
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ridho-Akbar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ffff&icon_color=00ffff&text_color=c9d1d9" alt="GitHub Stats"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ridho-Akbar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ffff&text_color=c9d1d9" alt="Top Languages"/>
