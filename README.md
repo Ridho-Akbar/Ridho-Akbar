@@ -7,7 +7,7 @@
   </div>
   
   <!-- Avatar -->
-  <img src="https://github.com/Ridho-Akbar/Ridho-Akbar/blob/main/ridho_re-zero_style-circle.png" width="200" height="200" style="border-radius:50%; margin-top:-75px; border:10px solid #ffffff; box-shadow:0 0 25px #00ffff;" alt="Avatar"/>
+  <img src="https://github.com/Ridho-Akbar/Ridho-Akbar/blob/main/circle-photo-profile.png" width="200" height="200" style="border-radius:50%; margin-top:-75px; border:10px solid #ffffff; box-shadow:0 0 25px #00ffff;" alt="Avatar"/>
 
   <h1 style="color:#00ffff; text-shadow: 0 0 10px #00ffff; margin-top: 20px;">Ridho Akbar</h1>
   
