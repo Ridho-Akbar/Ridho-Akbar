@@ -3,7 +3,7 @@
   <!-- Neon box banner -->
   <div style="border: 3px solid #00ffff; border-radius: 15px; padding: 40px 20px; margin-bottom: 20px; box-shadow: 0 0 25px #00ffff80; background: linear-gradient(145deg, #0d1117 0%, #1a1f2b 100%);">
     <h1 style="color:#00ffff; text-shadow: 0 0 20px #00ffff, 0 0 40px #00ffff80; font-size: 3em; margin: 0; letter-spacing: 4px; font-family: monospace;"> WELCOME TO MY PROFILE </h1>
-    <p style="color:#c9d1d9; font-size:18px; margin-top:10px;"> <b>-Full Stack Developer-</b> | Clean Code Professional | <b>-Front End Advanced-</b></p>
+    <p style="color:#c9d1d9; font-size:18px; margin-top:10px;"> <b>-Full Stack Developer-</b> | Clean Architecture | <b>-Front End Advanced-</b></p>
   </div>
   
   <!-- Avatar -->
